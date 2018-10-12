@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Steal Credits Cards</string>
+    <string name="MY_SCAN_REQUEST_CODE">10</string>
+    <string name="dontdoit">No presionar</string>
+    <string name="creditcardnumber">Tarjeta de credito</string>
+    <string name="datecard">Fecha y año</string>
+    <string name="cvv">CVV</string>
+</resources>
